@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning organization culture
 - 👯 I’m looking to collaborate on open-source project
 - 💬 Ask me about anything in flutter
-<!-- - 📫 How to reach me: ... -->
+- 📫 How to reach me: Mail at rohandas2468@gmail.com
 - 😄 Pronouns: He/Him
 <!-- - ⚡ Fun fact: ... -->
