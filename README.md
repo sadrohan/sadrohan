@@ -23,10 +23,10 @@ Thanks for visiting my profile page.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadrohan&layout=compact)](https://github.com/sadrohan)
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sadrohan&repo=ringtone_player)](https://github.com/sadrohan/ringtone_player) -->
 
-### StackOverflow Stats
+### StackOverflow Stats:
 [![Rohan's StackOverflow Profile](https://github-readme-stackoverflow.vercel.app/?userID=12246351&layout=compact)](https://stackoverflow.com/users/12246351/r%c3%b8h%c3%a4%c3%b1-d%c3%a5s)
 
-### Follow me
+### Follow me:
 [![Linkedin: rohandas2468](https://img.shields.io/badge/-rohandas2468-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohandas2468/)](https://www.linkedin.com/in/rohandas2468/)
 
 ### Languages and Tools: 
