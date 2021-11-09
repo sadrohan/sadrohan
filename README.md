@@ -31,3 +31,15 @@ Thanks for visiting my profile page.
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+
+<p align = "center">
+  <a href="https://github.com/sadrohan">
+    <img src="https://badges.pufler.dev/years/sadrohan?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/sadrohan">
+    <img src="https://badges.pufler.dev/repos/sadrohan?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/sadrohan">
+    <img src="https://badges.pufler.dev/visits/sadrohan/sadrohan?style=flat-square&color=black&logo=github">
+  </a>
+</p>
