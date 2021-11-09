@@ -27,7 +27,7 @@ Thanks for visiting my profile page.
 [![Rohan's StackOverflow Profile](https://github-readme-stackoverflow.vercel.app/?userID=12246351&layout=compact)](https://stackoverflow.com/users/12246351/r%c3%b8h%c3%a4%c3%b1-d%c3%a5s)
 
 ### Follow me
-[![Linkedin: rohandas2468](https://img.shields.io/badge/-rohandas2468-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohandas2468/)](https://www.linkedin.com/in/rohandas2468/)
+[![Linkedin: rohandas2468](https://img.shields.io/badge/-rohandas2468-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohandas2468/)](https://www.linkedin.com/in/rohandas2468/)
 
 ### Languages and Tools: 
 
@@ -38,12 +38,12 @@ Thanks for visiting my profile page.
 
 <p align = "center">
   <a href="https://github.com/sadrohan">
-    <img src="https://badges.pufler.dev/years/sadrohan?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/years/sadrohan?color=black&logo=github">
   </a>
   <a href="https://github.com/sadrohan">
-    <img src="https://badges.pufler.dev/repos/sadrohan?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/repos/sadrohan?color=black&logo=github">
   </a>
   <a href="https://github.com/sadrohan">
-    <img src="https://badges.pufler.dev/visits/sadrohan/sadrohan?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/visits/sadrohan/sadrohan?color=black&logo=github">
   </a>
 </p>
