@@ -1,4 +1,5 @@
 ### Hi there, I'm Rohan 👋
+<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
 
 I'm a Flutter enthusiast, so you might find me making many projects.
 
@@ -21,6 +22,9 @@ Thanks for visiting my profile page.
 [![Rohan's github stats](https://github-readme-stats.vercel.app/api?username=sadrohan&show_icons=true&count_private=true)](https://github.com/sadrohan)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadrohan&layout=compact)](https://github.com/sadrohan)
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sadrohan&repo=ringtone_player)](https://github.com/sadrohan/ringtone_player) -->
+
+### StackOverflow Stats
+[![Rohan's StackOverflow Profile](https://github-readme-stackoverflow.vercel.app/?userID=12246351&layout=compact)](https://stackoverflow.com/users/12246351/r%c3%b8h%c3%a4%c3%b1-d%c3%a5s)
 
 #### Follow me
 [![Linkedin: rohandas2468](https://img.shields.io/badge/-rohandas2468-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohandas2468/)](https://www.linkedin.com/in/rohandas2468/)
