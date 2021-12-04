@@ -41,7 +41,7 @@ Thanks for visiting my profile page.
   <a href="https://github.com/sadrohan">
     <img src="https://badges.pufler.dev/years/sadrohan?color=black&logo=github">
   </a>
-  <a href="https://github.com/sadrohan">
+  <a href="https://github.com/sadrohan?tab=repositories">
     <img src="https://badges.pufler.dev/repos/sadrohan?color=black&logo=github">
   </a>
   <a href="https://github.com/sadrohan">
