@@ -19,9 +19,10 @@ Couple of things about me:
 
 Thanks for visiting my profile page.
 
-[![Rohan's github stats](https://github-readme-stats.vercel.app/api?username=sadrohan&show_icons=true&count_private=true)](https://github.com/sadrohan)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadrohan&layout=compact)](https://github.com/sadrohan)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cruvdev&repo=ringtone_player)](https://github.com/cruvdev/ringtone_player)
+[![Rohan's github stats](https://github-readme-stats.vercel.app/api?username=sadrohan&theme=prussian&show_icons=true&count_private=true)](https://github.com/sadrohan)
+[![Rohan's commit streak](https://github-readme-streak-stats.herokuapp.com/?user=sadrohan&theme=prussian)](https://github.com/sadrohan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadrohan&theme=prussian&layout=compact)](https://github.com/sadrohan)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cruvdev&theme=prussian&repo=ringtone_player)](https://github.com/cruvdev/ringtone_player)
 
 ### StackOverflow Stats:
 [![Rohan's StackOverflow Profile](https://github-readme-stackoverflow.vercel.app/?userID=12246351&layout=compact)](https://stackoverflow.com/users/12246351/r%c3%b8h%c3%a4%c3%b1-d%c3%a5s)
