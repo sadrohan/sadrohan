@@ -8,13 +8,13 @@ Couple of things about me:
 - 🔭 I’m currently working at RedCarpetUp
 - 🏅 I’m currently learning organization culture
 - 🌱 Full-time **Flutter**er.
-- 👯 I’m looking to collaborate on open-source project
-- 🤝 Maintainer of Flutter Applications of **CRUV: Technological consultancy and services**
-- 😬 Hope to collaborate with any team related to Flutter.
+- 🧐 I’m looking to collaborate on open-source project
+- 🛠️ Maintainer of Flutter Applications of **CRUV: Technological consultancy and services**
+- 🤝 Hope to collaborate with any team related to Flutter.
 - 🚀 Active on GitHub and participate the development with many projects and repositories.
 - 💬 Ask me about anything in flutter
 - 📫 How to reach me: Mail at rohandas2468@gmail.com
-- 😄 Pronouns: He/Him
+- 😏 Pronouns: He/Him
 - ⚡  Fun fact: I have rain boots.
 
 Thanks for visiting my profile page.
