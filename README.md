@@ -10,7 +10,7 @@ Couple of things about me:
 - 🌱 Full-time **Flutter**er.
 - 👯 I’m looking to collaborate on open-source project
 - 🤝 Maintainer of Flutter Applications of **CRUV: Technological consultancy and services**
-- 😬 Hope to collaborate with any team related to Flutter in India.
+- 😬 Hope to collaborate with any team related to Flutter.
 - 🚀 Active on GitHub and participate the development with many projects and repositories.
 - 💬 Ask me about anything in flutter
 - 📫 How to reach me: Mail at rohandas2468@gmail.com
