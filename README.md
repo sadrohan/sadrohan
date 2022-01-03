@@ -1,5 +1,5 @@
 ### Hi there, I'm Rohan 👋
-<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 I'm a Flutter enthusiast, so you might find me making many projects.
 
