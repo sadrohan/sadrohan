@@ -5,7 +5,7 @@ I'm a Flutter enthusiast, so you might find me making many projects.
 
 Couple of things about me:
 
-- 🔭 I’m currently working at RedCarpetUp
+- 🔭 I’m currently working at Rulezero Technology Solutions
 - 🏅 I’m currently learning organization culture
 - 🌱 Full-time **Flutter**er.
 - 🧐 I’m looking to collaborate on open-source project
