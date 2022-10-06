@@ -7,13 +7,10 @@ I'm passionate about Data Science, so you might find me making many projects.
 Couple of things about me:
 
 - 🔭 I’m currently working at Rulezero Technology Solutions
-- 🏅 I’m currently learning organization culture
-<!-- - 🌱 Full-time **Flutter**er. -->
-- 🧐 I’m looking to collaborate on open-source project
-<!-- - 🛠️ Maintainer of Flutter Applications of **CRUV: Technological consultancy and services**
+- 🏅 I’m currently learning organization culture <!-- - 🌱 Full-time **Flutter**er. -->
+- 🧐 I’m looking to collaborate on open-source project <!-- - 🛠️ Maintainer of Flutter Applications of **CRUV: Technological consultancy and services**
 - 🤝 Hope to collaborate with any team related to Flutter. -->
-- 🚀 Active on GitHub and participate the development with many projects and repositories.
-<!-- - 💬 Ask me about anything in flutter -->
+- 🚀 Active on GitHub and participate the development with many projects and repositories. <!-- - 💬 Ask me about anything in flutter -->
 - 📫 How to reach me: Mail at rohandas2468@gmail.com
 - 😏 Pronouns: He/Him
 - ⚡  Fun fact: I have rain boots.
