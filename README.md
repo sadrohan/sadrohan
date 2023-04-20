@@ -2,7 +2,7 @@
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
 
 <!-- I'm a Flutter enthusiast, so you might find me making many projects. -->
-I'm passionate about Data Science, so you might find me making many projects.
+I'm passionate about Flutter, so you might find me making many projects.
 
 Couple of things about me:
 
