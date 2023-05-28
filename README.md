@@ -55,7 +55,7 @@ Thanks for visiting my profile page.
       <img align="center" src="https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white" />
       <img align="center" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white" />
       <img align="center" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase" />
-      <img align="center" src="https://img.shields.io/badge/python-%23039BE5.svg?style=flat&logo=python&logoColor=white" />
+      <img align="center" src="https://img.shields.io/badge/python-%233776AB.svg?style=flat&logo=python&logoColor=white" />
     </div>
     <br/>
     <div>
@@ -68,6 +68,11 @@ Thanks for visiting my profile page.
     <div>
       <img align="center" src="https://img.shields.io/badge/Android%20Studio-00c879.svg?style=flat&logo=android-studio&logoColor=white" />
       <img align="center" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white" />
+    </div>
+    <br/>
+    <div>
+        <img alt="MacOS" src="https://img.shields.io/badge/MacOS-000000?logo=macos&logoColor=white&style=flat" />
+        <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat" />
     </div>
   </div>
 </div>
