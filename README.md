@@ -51,33 +51,45 @@ Thanks for visiting my profile page.
 <div align="center">
   <h4>Tech Stack</h4>
   <div>
-    <div>
-      <img align="center" src="https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white" />
-      <img align="center" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white" />
-      <img align="center" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase" />
-      <img align="center" src="https://img.shields.io/badge/python-%233776AB.svg?style=flat&logo=python&logoColor=white" />
-    </div>
-    <br/>
-    <div>
-      <img align="center" src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" />
-      <img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" />
-      <img align="center" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white" />
-      <img align="center" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat&logo=bitbucket&logoColor=white" />
-    </div>
-    <br/>
-    <div>
-      <img align="center" src="https://img.shields.io/badge/Android%20Studio-00c879.svg?style=flat&logo=android-studio&logoColor=white" />
-      <img align="center" src="https://img.shields.io/badge/Xcode-006feb.svg?style=flat&logo=xcode&logoColor=white" />
-      <img align="center" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white" />
-    </div>
-    <br/>
-    <div>
-        <img alt="MacOS" src="https://img.shields.io/badge/MacOS-000000?logo=macos&logoColor=white&style=flat" />
-        <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat" />
-    </div>
+    <img align="center" src="https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase" />
+    <img align="center" src="https://img.shields.io/badge/python-%233776AB.svg?style=flat&logo=python&logoColor=white" />
   </div>
 </div>
 <br/>
+
+<div align="center">
+  <h4>Version Control System</h4>
+  <div>
+    <img align="center" src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat&logo=bitbucket&logoColor=white" />
+  </div>
+</div>
+<br/>
+
+<div align="center">
+  <h4>Integrated Development Environment</h4>
+  <div>
+    <img align="center" src="https://img.shields.io/badge/Android%20Studio-00c879.svg?style=flat&logo=android-studio&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/Xcode-006feb.svg?style=flat&logo=xcode&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&style=flat" />
+  </div>
+</div>
+<br/>
+
+<div align="center">
+  <h4>Operating System</h4>
+  <div>
+      <img alt="MacOS" src="https://img.shields.io/badge/MacOS-000000?logo=macos&logoColor=white&style=flat" />
+      <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat" />
+  </div>
+</div>
+<br/>
+
 <br/>
 
 <div align="center">
