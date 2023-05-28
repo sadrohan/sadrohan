@@ -8,7 +8,7 @@ I'm passionate about Flutter, so you might find me making many projects.
 
 Couple of things about me:
 
-- 🔭 I’m currently working at Rulezero Technology Solutions
+- 🔭 I’m currently working at Indipe Paytech Private Limited
 - 🏅 I’m currently learning organization culture <!-- - 🌱 Full-time **Flutter**er. -->
 - 🧐 I’m looking to collaborate on open-source project <!-- - 🛠️ Maintainer of Flutter Applications of **CRUV: Technological consultancy and services** -->
 - 🤝 Hope to collaborate with any team related to Flutter.
