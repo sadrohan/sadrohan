@@ -2,18 +2,18 @@
 <img align="right" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" width="350" />
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=blue&width=435&height=30&lines=Software+Engineer;Full+Stack+Developer;Cross+Platform+Mobile+Developer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=blue&width=435&height=30&lines=Cross+Platform+Mobile+Developer;Full+Stack+Developer;Software+Engineer;)](https://git.io/typing-svg)
 
-I'm passionate about Flutter, so you might find me making many projects.
+I'm passionate about Flutter, so you might find me doing many projects.
 
-Couple of things about me:
+A couple of things about me:
 
 - 🔭 I’m currently working at Indipe Paytech Private Limited
 - 🏅 I’m currently learning organization culture <!-- - 🌱 Full-time **Flutter**er. -->
 - 🧐 I’m looking to collaborate on open-source project <!-- - 🛠️ Maintainer of Flutter Applications of **CRUV: Technological consultancy and services** -->
 - 🤝 Hope to collaborate with any team related to Flutter.
-- 🚀 Active on GitHub and participate the development with many projects and repositories.
-- 💬 Ask me about anything in flutter
+- 🚀 Active on GitHub and participated in developing many projects and repositories.
+- 💬 Ask me about anything in Flutter
 - 📫 How to reach me: Mail at rohandas2468@gmail.com
 - 😏 Pronouns: He/Him
 - ⚡  Fun fact: I have rain boots.
