@@ -22,6 +22,7 @@ Thanks for visiting my profile page.
 
 [![Rohan's github stats](https://github-readme-stats.vercel.app/api?username=sadrohan&theme=prussian&show_icons=true&count_private=true&hide_border=true)](https://github.com/sadrohan)
 [![Rohan's commit streak](https://github-readme-streak-stats.herokuapp.com/?user=sadrohan&theme=prussian&hide_border=true)](https://github.com/sadrohan)
+[![Rohan's contributions](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sadrohan&theme=prussian)](https://github.com/sadrohan)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadrohan&theme=prussian&layout=compact&hide_border=true)](https://github.com/sadrohan) -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cruvdev&theme=prussian&repo=ringtone_player&hide_border=true)](https://github.com/cruvdev/ringtone_player)
 
